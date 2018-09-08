@@ -1,2 +1,2 @@
-# xbbot-3
-gf,j
+# Aarabic-bot
+discordyou23
